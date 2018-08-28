@@ -13,7 +13,7 @@ class main{
 	    			count += 1;
 	    			a[i] = '0';
 	    			a[j] = '0';
-	    			continue;
+	    			break;
 	    		}
 	    	}
 	    }
